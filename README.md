@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, my name is Yonatan
+#### Andriod/Web Dev
+![Andriod/Web Dev](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)
 
-<!--
-**yonatan1611/yonatan1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a motivated computer science student with a strong focus on web and Android development.  My skills extend to systems analysis and software development, where I enjoy tackling complex problems and implementing efficient solutions. With a passion for learning and a drive to explore new technologies, I am committed to growing my expertise in the ever-evolving tech landscape.
 
-Here are some ideas to get you started:
+Skills: NODE JS / REACT / JS / HTML / CSS / KOTLIN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my internship at Prodigy infotech 
+- 👯 I’m looking to collaborate on any type of web/andriod dev projects 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yonatan Grimachew/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yonatanG11)  
+
