@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Yonatan
 #### Andriod/Web Dev
-![Andriod/Web Dev](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)
-
 I am a motivated computer science student with a strong focus on web and Android development.  My skills extend to systems analysis and software development, where I enjoy tackling complex problems and implementing efficient solutions. With a passion for learning and a drive to explore new technologies, I am committed to growing my expertise in the ever-evolving tech landscape.
 
 Skills: NODE JS / REACT / JS / HTML / CSS / KOTLIN
