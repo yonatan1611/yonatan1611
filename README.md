@@ -2,7 +2,7 @@
 #### Andriod/Web Dev
 I am a motivated computer science student with a strong focus on web and Android development.  My skills extend to systems analysis and software development, where I enjoy tackling complex problems and implementing efficient solutions. With a passion for learning and a drive to explore new technologies, I am committed to growing my expertise in the ever-evolving tech landscape.
 
-Skills: NODE JS / REACT / JS / HTML / CSS / KOTLIN
+Skills: NODE JS / TYPESCRIPT / REACT / JS / HTML / CSS 
 
 - 🔭 I’m currently working on my internship at Prodigy infotech 
 - 👯 I’m looking to collaborate on any type of web/andriod dev projects 
