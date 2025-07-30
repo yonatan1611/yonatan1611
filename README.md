@@ -27,6 +27,7 @@
           <li>🌈 Building colorful and interactive web applications</li>
           <li>🌍 Open to collaborating on innovative projects</li>
           <li>📚 Continuous learner with growth mindset</li>
+          <li>📖 Currently learning AI Automation</li>
         </ul>
       </td>
       <td>
