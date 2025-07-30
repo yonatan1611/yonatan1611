@@ -1,12 +1,72 @@
-### Hi there 👋, my name is Yonatan
-#### Andriod/Web Dev
-I am a motivated computer science student with a strong focus on web and Android development.  My skills extend to systems analysis and software development, where I enjoy tackling complex problems and implementing efficient solutions. With a passion for learning and a drive to explore new technologies, I am committed to growing my expertise in the ever-evolving tech landscape.
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="180" style="border-radius: 50%;" alt="profile-pic"/>
+</p>
 
-Skills: NODE JS / TYPESCRIPT / REACT / JS / HTML / CSS 
+<h1 align="center">Hello Fellow &lt; Developers /&gt;! <span>👋</span></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=F77B29&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Colorful+and+Dynamic+Web+Enthusiast;Always+Learning+New+Tech!" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on my internship at Prodigy infotech 
-- 👯 I’m looking to collaborate on any type of web/andriod dev projects 
+---
 
+## About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yonatan1611)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yonatanGrimachew/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yonatanG11)  
+- 🎓 Full Stack Web Developer
+- 🌈 I love building colorful and dynamic web applications.
+- 💻 Skilled in: **Node.js, TypeScript, PHP, Python, C++, Java, JS (React), MERN stack**
+- 🗄️ Databases: **MySQL, PostgreSQL**
+- 🌍 Open to collaborating on innovative projects
+- 📚 Always learning and adapting to new technologies
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yonatan-girmachew-b693b3291/)
 
+---
+
+## 🛠️ Skills
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="nodejs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="php"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="git"/>
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yonatan-girmachew-b693b3291/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2/fff" width="40" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yonatan1611&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F77B29&icon_color=F7B731"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yonatan1611&theme=react&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonatan1611&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F77B29"/>
+</p>
+
+---
+
+## 💡 Fun Fact
+
+> Q. What do computers and air conditioners have in common?  
+> <span style="color:#F77B29">A. They both become useless when you open windows.</span>
+
+---
+
+<!-- Colorful & dynamic style inspiration! -->
